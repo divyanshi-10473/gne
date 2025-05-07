@@ -732,6 +732,13 @@ justify-content: center; */
   overflow: hidden;
 }
 
+@media (max-width: 1000px) {
+  .latest-updates {
+    top: 5px
+  }
+}
+
+
 .marquee {
   white-space: nowrap;
   overflow: hidden;
